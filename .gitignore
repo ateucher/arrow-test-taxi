@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+db_temp
+db_temp.wal
+nyc-taxi
+package-lock.json
+test_resbatch
